@@ -6,19 +6,15 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 📊 Strong foundation in **Mathematics (Master’s degree)** and **Data Analysis**  
-- 🔍 Experienced in **Excel, Power BI, SQL, and Python**  
-- 🤖 Interested in **Machine Learning, Computer Vision, and Robotics**  
+- 📊 Strong foundation in **Mathematics** and **Data Analysis**  
+- 🔍 Experienced in **Excel, Power BI, SQL, and Python**    
 - 🌍 Based in **Amman, Jordan**  
-- 🚀 Actively seeking opportunities in **Data Analysis & Machine Learning Engineering**  
 
 ---
 
 ## 🛠️ Skills  
-- **Languages & Tools**: Python, SQL, Power BI, Excel, Git, GitHub  
-- **Data Analysis**: Data Cleaning, Visualization, Forecasting, Business Dashboards  
-- **Machine Learning (Learning Path)**: scikit-learn, Computer Vision (OpenCV), AI fundamentals  
-- **Cloud (Basic Knowledge)**: GCP, AWS, Azure  
+- **Languages & Tools**: Python, SQL, Power BI, Excel, GitHub  
+- **Data Analysis**: Data Cleaning, Visualization, Forecasting, Business Dashboards    
 
 ---
 
@@ -45,20 +41,19 @@ Analyzed Zomato dataset to explore customer preferences and restaurant trends.
 ### 🔹 [Churn Analysis](https://github.com/Shakkah998/Churn-analysis-)  
 Worked on churn dataset to build dashboards and find customer retention strategies.  
 
-*(💡 Tip: Add screenshots or sample dashboards inside each repo for better presentation.)*  
 
 ---
 
 ## 🎓 Education  
-- **Master’s in Mathematics** – University of [Your University Name]  
+- - **Bachelor’s in Mathematics** – Balqa Applied University   
 
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](your-linkedin-url)  
-- 📂 [GitHub Portfolio](https://github.com/Shakkah998)  
-- ✉️ [Email Me](mailto:your-email@example.com)  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shakkah)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Shakkah998)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamadshaagah@gmail.com)  
 ---
 
 🔔 *“Always learning, always building.”*  
