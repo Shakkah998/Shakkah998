@@ -19,10 +19,7 @@
 ---
 
 ## 📂 Featured Projects  
-
-### 🔹 [Riyadh Metro Station](https://github.com/Shakkah998/Riyadh-Metro-Station)  
-Analyzed data related to Riyadh Metro stations and provided insights through dashboards.  
-
+  
 ### 🔹 [Analyzing Job Market Data](https://github.com/Shakkah998/Analyzing-Job-Market-Data)  
 Explored job market datasets to identify demand trends, skills requirements, and industry needs.  
 
