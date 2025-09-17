@@ -26,7 +26,7 @@ Explored job market datasets to identify demand trends, skills requirements, and
 ### 🔹 [Healthcare](https://github.com/Shakkah998/Healthcare)  
 Performed healthcare data analysis to identify key health indicators and visualize trends.  
 
-### 🔹 [Attrition Analysis](https://github.com/Shakkah998/Attrition-Analysis)  
+### 🔹 [HR-Analysis](https://github.com/Shakkah998/HR-Analysis)  
 Created dashboards to understand employee attrition and retention strategies.  
 
 ### 🔹 [Customer Churn Rate](https://github.com/Shakkah998/Customer-Churn-Rate)  
