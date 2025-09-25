@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Shakkah  
 
-🎯 **Data Specialist | Aspiring Machine Learning & AI Engineer**  
+🎯 **Data Specialist**  
 💡 Passionate about learning and developing in **Artificial Intelligence, Data Analysis, and Computer Vision**  
 
 ---
